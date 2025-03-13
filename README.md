@@ -16,6 +16,7 @@ Me chamo João Alexandre Vilaruel dos Santos, tenho 19 anos e sou natural do Par
         />
     </a>
 </div>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -92,6 +93,7 @@ Me chamo João Alexandre Vilaruel dos Santos, tenho 19 anos e sou natural do Par
 />
 <br>
 <br>
+
 ### 📊 Estatísticas
 
 <p>
@@ -106,7 +108,7 @@ Me chamo João Alexandre Vilaruel dos Santos, tenho 19 anos e sou natural do Par
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draknoz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
