@@ -108,7 +108,7 @@ Me chamo João Alexandre Vilaruel dos Santos, tenho 19 anos e sou natural do Par
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src=" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draknoz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
