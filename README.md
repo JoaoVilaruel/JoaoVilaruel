@@ -96,6 +96,6 @@ Me chamo João Alexandre Vilaruel dos Santos, tenho 19 anos e sou natural do Par
 ### 📊 Estatísticas
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Draknoz&show_icons=true&theme=dracula&locale=pt-br&hide=issues" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draknoz&layout=compact&locale=pt-br&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVilaruel&show_icons=true&theme=dracula&locale=pt-br&hide=issues" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVilaruel&layout=compact&locale=pt-br&theme=dracula" />
 </div>
